@@ -1,0 +1,6 @@
+H:\.NET PF\EindTaak_PF\Taak\bin\Debug\Taak.exe.config
+H:\.NET PF\EindTaak_PF\Taak\bin\Debug\Taak.exe
+H:\.NET PF\EindTaak_PF\Taak\bin\Debug\Taak.pdb
+H:\.NET PF\EindTaak_PF\Taak\obj\Debug\Taak.csprojResolveAssemblyReference.cache
+H:\.NET PF\EindTaak_PF\Taak\obj\Debug\Taak.exe
+H:\.NET PF\EindTaak_PF\Taak\obj\Debug\Taak.pdb

@@ -1,0 +1,6 @@
+H:\.NET PF\CSharpPF\CSharpPFOefenmap\bin\Debug\CSharpPFOefenmap.exe.config
+H:\.NET PF\CSharpPF\CSharpPFOefenmap\bin\Debug\CSharpPFOefenmap.exe
+H:\.NET PF\CSharpPF\CSharpPFOefenmap\bin\Debug\CSharpPFOefenmap.pdb
+H:\.NET PF\CSharpPF\CSharpPFOefenmap\obj\Debug\CSharpPFOefenmap.csprojResolveAssemblyReference.cache
+H:\.NET PF\CSharpPF\CSharpPFOefenmap\obj\Debug\CSharpPFOefenmap.exe
+H:\.NET PF\CSharpPF\CSharpPFOefenmap\obj\Debug\CSharpPFOefenmap.pdb

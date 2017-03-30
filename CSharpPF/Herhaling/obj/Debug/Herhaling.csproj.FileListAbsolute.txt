@@ -1,0 +1,6 @@
+H:\.NET PF\CSharpPF\Herhaling\bin\Debug\Herhaling.exe.config
+H:\.NET PF\CSharpPF\Herhaling\bin\Debug\Herhaling.exe
+H:\.NET PF\CSharpPF\Herhaling\bin\Debug\Herhaling.pdb
+H:\.NET PF\CSharpPF\Herhaling\obj\Debug\Herhaling.csprojResolveAssemblyReference.cache
+H:\.NET PF\CSharpPF\Herhaling\obj\Debug\Herhaling.exe
+H:\.NET PF\CSharpPF\Herhaling\obj\Debug\Herhaling.pdb
